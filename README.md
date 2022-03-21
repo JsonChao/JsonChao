@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am JsonChao who is a developer from China. ![](https://visitor-badge.glitch.me/badge?page_id=pheromone)
+I am JsonChao who is a developer from China.  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
