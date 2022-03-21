@@ -13,7 +13,7 @@ I am JsonChao who is a developer from China.
 - 学习: [🌟🌟🌟🌟🌟 ]( https://github.com/JsonChao/Awesome-Android-Notebook )
 
 
-### Contract :名卡:
+### Contract :name_badge:
 
 - 微信：bcce5360
 
