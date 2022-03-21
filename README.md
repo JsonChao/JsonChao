@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am JsonChao who is a developer from China.  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JsonChao.visitor-badge&left_text=My%20Page%20Visitors)
+I am JsonChao who is a developer from China. 
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
@@ -13,7 +13,7 @@ I am JsonChao who is a developer from China.  ![visitor badge](https://visitor-b
 - 学习: [🌟🌟🌟🌟🌟 ]( https://github.com/JsonChao/Awesome-Android-Notebook )
 
 
-### Contract 👯
+### Contract :名卡:
 
 - 微信：bcce5360
 
