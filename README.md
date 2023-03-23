@@ -8,6 +8,7 @@ I am JsonChao who is a developer from China.
 ### Links 📌
 
 - 公众号：微信内 🔍 JsonChao
+- 知识星球：https://t.zsxq.com/0c2BL94Rc
 - 掘金: https://juejin.cn/user/4318537403878167
 - CSDN: https://blog.csdn.net/qq_20798591?type=blog
 - 学习: [🌟🌟🌟🌟🌟 ]( https://github.com/JsonChao/Awesome-Android-Notebook )
