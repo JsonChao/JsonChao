@@ -14,6 +14,7 @@ I am JsonChao who is a developer from China.
 - 6、[焊工薪水内容网站](https://www.weldersalaryinfo.com/)
 - 7、[AI黑色礼服设计与虚拟试穿平台 | 无水印会员下载特权](https://www.blackcocktaildress.org/)
 - 8、[SzGames - 免费在线游戏站点| 畅玩1000+免费游戏](https://sz-games.online/)
+- 9、[国际版农场计算工具](https://www.growagarden-calculator.net/)
 
 ### Links 📌
 
