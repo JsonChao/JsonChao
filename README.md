@@ -4,7 +4,7 @@ I am JsonChao who is a developer from China.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
-## 一个公司，ai出海应用开发项目聚集地
+## 一人公司，ai出海应用开发项目聚集地
 
 - 1、[MD2Card - 将Markdown转换为精美卡片，包括 AI 魔幻卡片、长文转换高级功能！](https://md2card.online/)
 - 2、[PlayHop - 免费在线游戏](https://playhop.vip/)
