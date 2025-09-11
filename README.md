@@ -45,6 +45,8 @@ I am JsonChao who is a developer from China.
 - 37、[Wplace Color Converter](https://wplace-color-converter.com/): Free Online Palette Tool
 - 38、[gta ai](https://gtaai.org/): AI Tools and Generators for GTA Fans
 - 39、[bomba patch](https://bomba-patch.com/) :  Classic Football Game Mods & Updates
+- 40、[cznull](https://cznull.org/) : Performance Testing Tools
+- 41、[volume shader bm](https://volumeshaderbm.net/) : GPU Performance Testing
 
 ### Links 📌
 
