@@ -47,6 +47,10 @@ I am JsonChao who is a developer from China.
 - 39、[bomba patch](https://bomba-patch.com/) :  Classic Football Game Mods & Updates
 - 40、[cznull](https://cznull.org/) : Performance Testing Tools
 - 41、[volume shader bm](https://volumeshaderbm.net/) : GPU Performance Testing
+- 42、[exiled exchange 2](https://exiled-exchange2.com/) :  Path of Exile 2 Trading Tool
+- 43、[blood money game](https://blood-money-game.com/) : Thrilling Action-Packed Game
+- 44、[rule34dle](https://rule34dle.co/) : The Ultimate Character Popularity Guessing Game
+
 
 ### Links 📌
 
