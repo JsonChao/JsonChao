@@ -50,6 +50,11 @@ I am JsonChao who is a developer from China.
 - 42、[exiled exchange 2](https://exiled-exchange2.com/) :  Path of Exile 2 Trading Tool
 - 43、[blood money game](https://blood-money-game.com/) : Thrilling Action-Packed Game
 - 44、[rule34dle](https://rule34dle.co/) : The Ultimate Character Popularity Guessing Game
+- 45、[ai lyrics genearator](https://ai-lyrics-generator.org/) : Create Original Song Lyrics Instantly
+- 46、[ai prompt generator](https://ai-prompt-generator.net/) : Create Perfect Prompts for ChatGPT & Claude
+- 47、[image to prompt](https://image-to-prompt.tools/) : Convert Any Image to AI Generation Prompts Instantly
+- 48、[ai banana](https://ai-banana.app/) : Transform Your Photos with One-Click AI Magic
+- 49、[cznull app](https://cznull.app/) : Free GPU Performance Testing & Benchmarking Platform
 
 
 ### Links 📌
