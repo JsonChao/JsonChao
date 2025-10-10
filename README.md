@@ -68,6 +68,7 @@ I am JsonChao who is a developer from China.
 - 47、[image to prompt](https://image-to-prompt.tools/) : Convert Any Image to AI Generation Prompts Instantly
 - 48、[ai banana](https://ai-banana.app/) : Transform Your Photos with One-Click AI Magic
 - 49、[cznull app](https://cznull.app/) : Free GPU Performance Testing & Benchmarking Platform
+- 50、[ao3dle](https://ao3dle.com/) : The Daily AO3 Fanfiction Guessing Game
 
 ### Stats 🌱
 
