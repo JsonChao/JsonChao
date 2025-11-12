@@ -70,6 +70,7 @@ I am JsonChao who is a developer from China.
 - 49、[cznull app](https://cznull.app/) : Free GPU Performance Testing & Benchmarking Platform
 - 50、[ao3dle](https://ao3dle.com/) : The Daily AO3 Fanfiction Guessing Game
 - 51、[silksong save editor](https://silksongsaveeditor.com/):Manage Your Game Progress Easily
+- 52、[chess analysis](https://chessanalysis.net/):Comprehensive Chess Analysis Tools
 
 ### Stats 🌱
 
