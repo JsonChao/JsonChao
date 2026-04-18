@@ -88,3 +88,4 @@ I am JsonChao who is a developer from China.
 - 67、[awesome openclaw](https://aiopenclaw.app/) : OpenClaw Learning & Practice Platform
 - 68、[Sora Watermark Remover](https://removesorawatermark.video/) : Remove Sora Watermark Instantly & Free
 - 69、[veo 3.1 lite](https://veo31lite.org/) : generate cinematic AI videos faster
+- 70、[hd image converter](https://hdimageconverter.app/) : Enhance & Upscale Your Images Instantly
