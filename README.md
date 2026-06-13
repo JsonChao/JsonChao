@@ -91,3 +91,4 @@ I am JsonChao who is a developer from China.
 - 70、[hd image converter](https://hdimageconverter.app/) : Enhance & Upscale Your Images Instantly
 - 71、[meigen ai](https://meigen-ai.com/) : Free AI Image Editor & Video Generator
 - 72、[faceless reels](https://facelessreels.co/) : AI Faceless Reels Generator
+- 73、[stonk rider](https://stonkrider.run/) : Ride Stock Charts Online
