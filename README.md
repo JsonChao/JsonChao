@@ -91,4 +91,10 @@ I am JsonChao who is a developer from China.
 - 70、[hd image converter](https://hdimageconverter.app/) : Enhance & Upscale Your Images Instantly
 - 71、[meigen ai](https://meigen-ai.com/) : Free AI Image Editor & Video Generator
 - 72、[faceless reels](https://facelessreels.co/) : AI Faceless Reels Generator
-- 73、[stonk rider](https://stonkrider.run/) : Ride Stock Charts Online
+- 73、[deep nostalgia ai](https://deepnostalgia-ai.com/) : Animate Old Photos with AI
+- 74、[stonk rider](https://stonkrider.run/) : Ride Stock Charts Online
+- 75、[sam tts](https://sam-tts.com/) : Classic Robot Voice Generator
+- 76、[pvz fusion](https://pvzfusion.id/) : Classic Robot Voice Generator
+- 77、[poople answer](https://poople-answer.com/) : Daily Solutions & Hints
+- 78、[Morse Code Translatorr](https://morsecodetranslator.run/) : Morse Code Translator Online
+- 79、[submit my tool](https://submitmytool.com/) : Promote Your Tool Online
